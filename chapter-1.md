@@ -1,1 +1,3 @@
-# Chapter 1
+# Hello world!
+
+This is chapter 1!
